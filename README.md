@@ -22,4 +22,7 @@ Your goal is to determine which combination of prompting technique + platform pr
 
 OUTPUT:
 
+[Blockchain_Supply_Chain_Analysis.pdf](https://github.com/user-attachments/files/28878507/Blockchain_Supply_Chain_Analysis.pdf)
+
+
 RESULT:
